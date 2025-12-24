@@ -25,6 +25,6 @@ Clonez ce dépôt ou téléchargez les fichiers.
 Comme le projet est composé de plusieurs fichiers `.c`, compilez-le avec `gcc` ou avec le makefile :
 
 ```bash
-gcc main.c fonction.c print_tab.c str_cpy.c str_len.c -o sokoban```
-```Makefile :
-make all```
+gcc main.c fonction.c print_tab.c str_cpy.c str_len.c -o sokoban
+Makefile :
+make all
