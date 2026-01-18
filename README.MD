@@ -27,6 +27,6 @@ Comme le projet est composé de plusieurs fichiers `.c`, compilez-le avec `gcc` 
 ```bash
 gcc main.c fonction.c print_tab.c str_cpy.c str_len.c -o sokoban
 Makefile :
-make all
+make all```
 
 **Je tiens également à préciser que les commentaires du code ont été géneré par IA afin de gagner du temps au moment de développer le jeu.**
